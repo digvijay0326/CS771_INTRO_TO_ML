@@ -1,1 +1,1 @@
-# CS771_INTRO_TO_ML
+Introduction to Machine Learning Course Projects
